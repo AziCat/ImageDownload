@@ -5,7 +5,7 @@ from time import sleep
 import socket
 ua = ["Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
       "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6"]
-url = "http://www.177picxx.info/html/2017/03/1338163.html"
+url = ""
 headers = {'user-agent': ua[0]}
 pageUrl= []
 downloadList = [];
